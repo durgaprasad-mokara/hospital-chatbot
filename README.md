@@ -2,7 +2,7 @@
 
 A simple, fullscreen web interface for a hospital chatbot integrated with Chatling AI.
 
-🔗 Live Demo: https://gydocare.netlify.app/
+🔗 Live Demo: [gydocarechatebot.netlify.app](https://gydocarechatebot.netlify.app/)
 
 📌 Overview
 
@@ -40,7 +40,7 @@ No installation or server setup is required.
 You can deploy this project easily using platforms like Netlify, Vercel, or GitHub Pages.
 
 Live Example:
-https://gydocare.netlify.app/
+[https://gydocare.netlify.app/](https://gydocarechatebot.netlify.app/)
 
 💡 Use Cases
 Hospital front desk automation
